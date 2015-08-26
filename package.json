@@ -1,0 +1,24 @@
+{
+  "name": "alarm",
+  "version": "0.0.1",
+  "description": "Alarm is a command line tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shishidosoichiro/alarm.git"
+  },
+  "keywords": [
+    "setTimeout",
+    "alarm",
+    "timer"
+  ],
+  "author": "shishidosoichiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shishidosoichiro/alarm/issues"
+  },
+  "homepage": "https://github.com/shishidosoichiro/alarm"
+}
