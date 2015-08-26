@@ -6,10 +6,7 @@ var notifier = require('node-notifier');
 
 // get arguments.
 var config = process.argv[2];
-var message = process.argv[3];
-if (!message) {
-	message = config;
-}
+var message = process.argv[3] || 'The time has come!';
 
 // create a interpreter.
 var get = function(re, num){
