@@ -1,6 +1,6 @@
 # Alarm
 
-Alarm is a command line tool.
+Alarm is a command line tool. When the time that you set comes, notify message with platform system notification you use.
 
 # Installation
 
